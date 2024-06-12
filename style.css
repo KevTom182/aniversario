@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #1a5593;
+}
+p{
+  color: #ffffff;
+  font-size: 70px;
+  font-family: Comic Sans Ms, Helvetica, sans-serif;
+  text-align: center;
+}
+img{
+  height: 120px;
+  margin: 30px;
+}
+.pastel img{
+  height: 400px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mensaje p{
+  color: #eeff00;
+  font-size: 50px;
+}
